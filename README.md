@@ -144,6 +144,6 @@ If you like this project, please leave a ⭐️
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/admirerbrown/hello-rails-react/blob/feature1-hellow-world/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
